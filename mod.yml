@@ -1,10 +1,6 @@
 title: Space Boi Sonic Music Pack
 description: Gotta go fast
 assets:
-- name: se\se000.win32.scd
-  method: copy
-  source:
-  - name: se\se000.win32.scd
 - name: vagstream\End_Piano.win32.scd
   method: copy
   source:
